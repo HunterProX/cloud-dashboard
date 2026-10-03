@@ -15,7 +15,8 @@
     "test": "vitest run",
     "test:watch": "vitest",
     "test:e2e": "playwright test",
-    "check:pii": "node scripts/check-demo-pii.mjs"
+    "check:pii": "node scripts/check-demo-pii.mjs",
+    "doctor": "node scripts/doctor.mjs"
   },
   "dependencies": {
     "@ai-sdk/openai": "4.0.83",
