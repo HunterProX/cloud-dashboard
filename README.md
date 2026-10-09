@@ -34,7 +34,7 @@ summaries.
 Requirements: Node.js 22.12+ and npm.
 
 ```bash
-git clone https://github.com/HunterProX/cloud-dashboard.git
+git clone https://github.com/cristian-cardona-dev/cloud-dashboard.git
 cd cloud-dashboard
 npm ci
 cp .env.example .env.local
